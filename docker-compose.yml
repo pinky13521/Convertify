@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  convertify:
+    build: .
+    container_name: convertify
+    restart: always
+    stop_grace_period: 3s
+    ports:
+      - "${PORT:-8080}:80"
+    environment:
+      - NGINX_PORT=80
+
