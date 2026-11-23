@@ -126,6 +126,13 @@ Chcete-li Convertify používat z mobilu, tabletu nebo jiných počítačů v do
 
 ---
 
+## 👥 Autoři a přispěvatelé
+
+- **Ondřej Pinkas** ([@pinky13521](https://github.com/pinky13521)) – Návrh a vývoj
+- **Antigravity** (Google DeepMind) – AI asistent pro vývoj, dokumentaci a nasazení
+
+---
+
 ## 📄 Licence
 
 Tento projekt je poskytován pod licencí [MIT](LICENSE).

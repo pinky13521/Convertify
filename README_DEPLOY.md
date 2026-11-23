@@ -11,7 +11,7 @@ Vyberte si jeden z následujících způsobů:
 - **Přes Flash disk / Síťové sdílení:** Zkopírujte celou složku `Convert` na flash disk a vložte do Lenovo PC.
 - **Přes SCP / SSH (pokud máte na Lenovo Linux):**
   ```bash
-  scp -r /Users/ondrejpinkas/Documents/Projekty/Convert uzivatel@IP_LENOVO:~/convertify
+  scp -r /cesta/k/Convertify uzivatel@IP_LENOVO:~/convertify
   ```
 - **Přes ZIP archiv:** Zabalte složku do `Convert.zip` a pošlete si ji / přeneste na server a rozbalte.
 
